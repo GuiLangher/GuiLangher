@@ -67,6 +67,6 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhec
 <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLangher&theme=tokyonight&custom_title=Tecnologias&layout=compact"
 />
