@@ -2,11 +2,11 @@
 
 *`Desenvolvedor Front-end`*
 
-Meu nome é Guilherme Gustavo Langher Cardozo. Sou um entusiasta do mundo da programação e apaixonado por tecnologia. Trabalho há seis anos com manutenção de computadores e notebooks, desenvolvendo habilidades técnicas e de atendimento ao cliente.
+Meu nome é Guilherme Gustavo Langher Cardozo. Sou um entusiasta do mundo da programação e apaixonado por tecnologia. 
 
-Nos últimos anos, decidi aprofundar meus conhecimentos e migrar para a área de desenvolvimento de software. Apesar de ainda estar em busca do meu primeiro emprego formal na área, já realizei projetos como freelancer e participei do desenvolvimento de sistemas ERP que atualmente estão em operação.
+Nos últimos anos, decidi aprofundar meus conhecimentos e migrar para a área de desenvolvimento de software e hoje sou assistente de analista de sistema, exercendo funções de implementações de melhoria no ERP, geração e modificação de relatórios juntamente com atendimento e suporte ao cliente; mas já realizo projetos como freelancer e participei do desenvolvimento de sistemas ERP que atualmente estão em operação.
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e crescer como desenvolvedor.
+Sempre estou em busca de novos desafios e oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e crescer como desenvolvedor.
 <br>
 <br>
 
